@@ -1,6 +1,6 @@
 # Instagram Login Page
 
-![gif](../instagram-dio/.github/Instagram.gif)
+![gif](./.github/Instagram.gif)
 
 ### The requirements are:
 
