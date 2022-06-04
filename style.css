@@ -76,6 +76,11 @@ body {
   align-items: center;
   border-radius: 50%;
   overflow: hidden;
+  transition: 0.5s;
+}
+
+.profile-photo:hover {
+  transform: scale(1.1);
 }
 
 .profile-photo img {
