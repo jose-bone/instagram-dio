@@ -34,6 +34,12 @@ body {
 
 .instagram-phone img {
   height: 50rem;
+  transition: 1s all ease;
+  filter: drop-shadow(0 0 1.2rem var(--title));
+}
+
+.instagram-phone img:hover {
+  transform: scale(1.05) rotate(-10deg);
 }
 
 .instagram-continue {
